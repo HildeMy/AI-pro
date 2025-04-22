@@ -5,3 +5,5 @@ laget profil på makertube.
 
 Neste: 
 Laste opp video på makerspace og innebygge de på webapplikasjonen
+
+Video ligger på makertube og noen også på youtube. 
